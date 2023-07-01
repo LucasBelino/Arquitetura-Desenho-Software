@@ -1,0 +1,5 @@
+package br.inatel.labs.labads.padraosoa.model.service;
+
+public class BookService {
+
+}

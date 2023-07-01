@@ -1,0 +1,10 @@
+package controller;
+
+public class MyMessage {
+
+	public void setInfo(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

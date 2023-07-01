@@ -1,0 +1,5 @@
+package br.inatel.labs.labads.controller;
+
+public class HelloController {
+
+}

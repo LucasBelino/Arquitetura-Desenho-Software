@@ -1,0 +1,10 @@
+package br.inatel.labs.labads.padraosoa.controller;
+
+public class MyMessage {
+
+	public void setInfo(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

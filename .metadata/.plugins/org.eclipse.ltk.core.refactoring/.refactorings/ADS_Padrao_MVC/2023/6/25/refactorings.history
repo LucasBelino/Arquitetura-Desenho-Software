@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;ADS_Padrao_MVC&apos;&#x0D;&#x0A;- Original project: &apos;ADS_Padrao_MVC&apos;&#x0D;&#x0A;- Original element: &apos;OlaMundoController&apos;" description="Delete element" element1="src/main/java/br/inatel/labs/labads/padraomvc/controller/OlaMundoController" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1687218710489" subPackages="false" version="1.0"/>
+</session>

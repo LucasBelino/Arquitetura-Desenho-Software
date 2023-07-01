@@ -1,0 +1,5 @@
+package br.inatel.labs.labads.padraosoa.controller;
+
+public class BookController {
+
+}
